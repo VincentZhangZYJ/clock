@@ -1,0 +1,26 @@
+.count__container{
+  text-align: center;
+  background-color: #000;
+  border-radius: 5px;
+  width: 300px;
+  position: absolute;
+  padding: 20px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+  .count__content {
+    .count__title {
+      text-align: left;
+      font-size: 25px;
+    }
+    .count__section {
+      display: flex;
+      justify-content: space-between;
+      .count__time {
+        font-size: 20px;
+        padding: 10px;
+      }
+    }
+  }
+}
