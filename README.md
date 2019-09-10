@@ -1,9 +1,9 @@
-import <CountDown /> Component and you can pass props including:
-styles object using css-module,
-title string, by default it's Time Left,
-secs number, that's the total seconds you want to use to make countDown.
+import <CountDown /> Component and you can pass props including:<br>
+styles object using css-module,<br>
+title string, by default it's Time Left,<br>
+secs number, that's the total seconds you want to use to make countDown.<br>
 
-When you run npm start, the test prop value for secs I pass to CountDown
+When you run npm start, the test prop value for secs I pass to CountDown<br>
 is 5000 in src/App.js.
 
 ## Available Scripts
