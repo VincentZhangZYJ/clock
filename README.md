@@ -6,7 +6,6 @@ secs number, that's the total seconds you want to use to make countDown.<br>
 When you run npm start, the test prop value for secs I pass to CountDown<br>
 is 5000 in src/App.js.
 
-!(countDown.png)
 ## Available Scripts
 
 In the project directory, you can run:
